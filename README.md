@@ -37,8 +37,10 @@ multiple projects) and provides access to multiple IDEs.
 
 # ![Project 3 - Data Analysis using Python](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%203.ipynb)
 
-* Analyzed data of the passengers aboard the titanic.
-* First, I imported the titanic dataset and then I used .info() to get a summary of the dataframe. 
+* In this project, I analyzed data of the passengers aboard the titanic.
+
+# My data analysis approach
+* I imported the titanic dataset and then I used .info() to get a summary of the dataframe. 
 * The .info function lists all the columns along with their data types.
 * I can also interpret which columns have missing data. 
 * I then used the .head() function to see what the dataset looks like. 
