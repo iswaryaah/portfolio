@@ -14,7 +14,7 @@ Here are the assignments and projects that I have worked on...
 * Many organizations store data in relational databases thus a data scientist should know how to use SQL in order to retrieve and manipulate data.
 * Data can be retrieved from a database using SQL and can then be further analyzed using R, Python, or other tools.
 
-# Basic SQL syntax
+# Basic SQL Syntax
 • SELECT
 • DISTINCT
 • WHERE
@@ -39,7 +39,7 @@ multiple projects) and provides access to multiple IDEs.
 
 * In this project, I analyzed data of the passengers aboard the titanic.
 
-# My data analysis approach
+# My Data Analysis Approach
 * I imported the titanic dataset and then I used .info() to get a summary of the dataframe. 
 * The .info function lists all the columns along with their data types.
 * I can also interpret which columns have missing data. 
@@ -52,3 +52,7 @@ multiple projects) and provides access to multiple IDEs.
   ► pandas.cut() to categorise age
   ► .median() to find the median fare paid by passengers 
   ► .mean() to find the average age of passengers
+
+# ![Project 4 - Data Cleaning and Exploration](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%201.ipynb)
+
+* Using an open dataset with data on various types of cereal and the corresponding customer ratings, I created a dataframe by importing the provided csv file into Jupyter.
