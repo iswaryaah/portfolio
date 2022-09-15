@@ -35,6 +35,18 @@ Here are the assignments and projects that I have worked on...
 * Anaconda allows us to create multiple environments, manage Python packages in various versions (when working on
 multiple projects) and provides access to multiple IDEs.
 
-# Project 3
-* Created Numpy arrays and performed basic arithmetic functions
-* Interpreted and applied library documentation
+# ![Project 3 - Data Analysis using Python](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%203.ipynb)
+
+* Analyzed data of the passengers aboard the titanic.
+* First, I imported the titanic dataset and then I used .info() to get a summary of the dataframe. 
+* The .info function lists all the columns along with their data types.
+* I can also interpret which columns have missing data. 
+* I then used the .head() function to see what the dataset looks like. 
+* To analyse data, I used the groupby() function to categorize my data.
+* I used the groupby function to specify the columns to group on and then the columns to aggregate.
+
+* Throughout the analysis, I anchored to the key question of who would be more likely to survive.
+* I used functions such as...
+  ► pandas.cut() to categorise age
+  ► .median() to find the median fare paid by passengers 
+  ► .mean() to find the average age of passengers
