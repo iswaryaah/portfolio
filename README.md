@@ -3,7 +3,7 @@ Here are the projects that I have worked on...
 
 ![Py Portfolio](https://user-images.githubusercontent.com/57941228/190444958-af9fcf93-34e9-4804-a20d-1d03ce7cb2c1.png)
 
-# Project 1: SQL Queries → [Assignment 1 SQL.docx](https://github.com/iswaryaah/portfolio/files/9576586/Assignment.1.SQL.docx)
+# Project 1: [SQL Queries](https://github.com/iswaryaah/portfolio/files/9576586/Assignment.1.SQL.docx)
 
 * Created a database in SQLite Studio.
 * Applied basic data querying techniques to create datasets from database tables.
@@ -13,3 +13,4 @@ Here are the projects that I have worked on...
 * It is used to update/create/delete databases, execute queries, and manage data access permissions.
 * Many organizations store data in relational databases thus a data scientist should know how to use SQL in order to retrieve and manipulate data.
 * Data can be retrieved from a database using SQL and can then be further analyzed using R, Python, or other tools.
+
