@@ -38,24 +38,22 @@ multiple projects) and provides access to multiple IDEs.
 # ![Project 3 - Data Analysis using Python](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%203.ipynb)
 
 * In this project, I analyzed data of the passengers aboard the titanic.
-
-# My Data Analysis Approach
-* I imported the titanic dataset and then I used .info() to get a summary of the dataframe. 
-* The .info function lists all the columns along with their data types.
-* I can also interpret which columns have missing data. 
-* I then used the .head() function to see what the dataset looks like. 
-* To analyse data, I used the groupby() function to categorize my data.
-* I used the groupby function to specify the columns to group on and then the columns to aggregate.
-
-* Throughout the analysis, I anchored to the key question of who would be more likely to survive.
-* I used functions such as...
-  * pandas.cut() to categorise age
-  * .median() to find the median fare paid by passengers 
-  * .mean() to find the average age of passengers
+* My approach:
+  * I imported the titanic dataset and then I used .info() to get a summary of the dataframe. 
+  * The .info function lists all the columns along with their data types.
+  * I can also interpret which columns have missing data. 
+  * I then used the .head() function to see what the dataset looks like. 
+  * To analyse data, I used the groupby() function to categorize my data.
+  * I used the groupby function to specify the columns to group on and then the columns to aggregate.
+  * Throughout the analysis, I anchored to the key question of who would be more likely to survive.
+  * I used functions such as...
+    * pandas.cut() to categorise age
+    * .median() to find the median fare paid by passengers 
+    * .mean() to find the average age of passengers
 
 # ![Project 4 - Data Cleaning and Exploration](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%201.ipynb)
 
-* Using an open dataset with data on various types of cereal and the corresponding customer ratings, I created a dataframe by importing the provided csv file into Jupyter.
+* I created a dataframe based on a provided csv file with data on various types of cereal and the corresponding customer ratings
 * Based on the analysis conducted, I came to the following conclusions:
   * There appears to be a strong negative relationship between calories and ratings where the higher in calories the cereal is, the lower the rating.
   * For this dataset we defined a healthy cereal as one which has the following characteristics:
