@@ -1,6 +1,8 @@
 # Iswaryaah Balakrishnan's Portfolio
 Here are the projects that I have worked on... 
 
+![Py Portfolio](https://user-images.githubusercontent.com/57941228/190444958-af9fcf93-34e9-4804-a20d-1d03ce7cb2c1.png)
+
 # Project 1: SQL Queries → [Assignment 1 SQL.docx](https://github.com/iswaryaah/portfolio/files/9576586/Assignment.1.SQL.docx)
 
 * Created a database in SQLite Studio.
