@@ -62,5 +62,41 @@ low calories (<100), low sodium (<150), low sugar (<9) high fiber (>3), and high
   
 # ![Project 5 - Time Series Analysis on Financial Data](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment2.ipynb)
 
-* Set up my environment and imported the Yahoo Finance library which then allowed me to download the stocks of Amazon, Facebook, IBM and MMM over the last 60 months.
+* Set up my environment, importing the Yahoo Finance library which allowed me to download the stocks of Amazon, Facebook, IBM and MMM over the last 60 months.
 * Applied inferential statistical methods to draw insights from time-series data.
+
+# ![Project 6 - Linear Regression](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%203.ipynb)
+
+* Built a linear regression model to understand the drivers which influence car prices. 
+
+# Common Algorithms
+
+* Linear Regression
+ * Used to estimate real values based on continuous variables (e.g. sales,
+house prices)
+* Logistic Regression
+ * Used to predict a binary outcome, usually for discrete data (e.g. winning
+a game vs. not, successful sale vs. not)
+* Decision Tree
+ * Used in classification problems (e.g. photos, bio samples)
+* SVM (Support Vector Machine)
+ * Used in classification problems where a point belongs to one group or
+another (e.g. height vs. hair length)
+* Naive Bayes
+ * Classification technique which assumes independence between
+predictors (e.g. probability of color, weight and shape predictors of fruit
+would be considered independently)
+* kNN (k-nearest neighbour)
+ * Classification mechanism which classifies data points based on majority
+votes of k neighbours
+* K-Means
+ * Classify a data set through clustering (e.g. types of clients)
+* Random Forest
+ * An ensemble of decision trees for classification problems
+* Dimensionality Reduction Algorithms
+ * Identifies the variables more significant to the analysis
+* Gradient Boosting algorithms
+ * GBM
+ * XGBoost
+ * LightGBM
+ * CatBoost
