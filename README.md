@@ -27,7 +27,6 @@ Here are the assignments and projects that I have worked on...
 
 # ![Project 2 - Basic Python](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%202.ipynb)
 
-* Create data sets (lists, dictionaries, arrays)
 * Wrote simple Python functions
 * Worked with strings and dictionaries
 
@@ -37,6 +36,5 @@ Here are the assignments and projects that I have worked on...
 multiple projects) and provides access to multiple IDEs.
 
 # Project 3
-
-# Created Numpy arrays and performed basic arithmetic functions
-# Interpreted and applied library documentation
+* Created Numpy arrays and performed basic arithmetic functions
+* Interpreted and applied library documentation
