@@ -72,31 +72,25 @@ low calories (<100), low sodium (<150), low sugar (<9) high fiber (>3), and high
 # Common Algorithms
 
 * Linear Regression
- * Used to estimate real values based on continuous variables (e.g. sales,
-house prices)
+  * Used to estimate real values based on continuous variables (e.g. sales, house prices)
 * Logistic Regression
- * Used to predict a binary outcome, usually for discrete data (e.g. winning
-a game vs. not, successful sale vs. not)
+  * Used to predict a binary outcome, usually for discrete data (e.g. winning a game vs. not, successful sale vs. not)
 * Decision Tree
- * Used in classification problems (e.g. photos, bio samples)
+  * Used in classification problems (e.g. photos, bio samples)
 * SVM (Support Vector Machine)
- * Used in classification problems where a point belongs to one group or
-another (e.g. height vs. hair length)
+  * Used in classification problems where a point belongs to one group or another (e.g. height vs. hair length)
 * Naive Bayes
- * Classification technique which assumes independence between
-predictors (e.g. probability of color, weight and shape predictors of fruit
-would be considered independently)
+  * Classification technique which assumes independence between predictors (e.g. probability of color, weight and shape predictors of fruit would be considered independently)
 * kNN (k-nearest neighbour)
- * Classification mechanism which classifies data points based on majority
-votes of k neighbours
+  * Classification mechanism which classifies data points based on majority votes of k neighbours
 * K-Means
- * Classify a data set through clustering (e.g. types of clients)
+  * Classify a data set through clustering (e.g. types of clients)
 * Random Forest
- * An ensemble of decision trees for classification problems
+  * An ensemble of decision trees for classification problems
 * Dimensionality Reduction Algorithms
- * Identifies the variables more significant to the analysis
-* Gradient Boosting algorithms
- * GBM
- * XGBoost
- * LightGBM
- * CatBoost
+  * Identifies the variables more significant to the analysis
+* Gradient Boosting algorithms: 
+  * GBM
+  * XGBoost
+  * LightGBM
+  * CatBoost
