@@ -55,8 +55,12 @@ multiple projects) and provides access to multiple IDEs.
 
 * I created a dataframe based on a provided csv file with data on various types of cereal and the corresponding customer ratings
 * Based on the analysis conducted, I came to the following conclusions:
-  * There appears to be a strong negative relationship between calories and ratings where the higher in calories the cereal is, the lower the rating.
+  * There appears to be a strong negative relationship between calories and ratings where the higher in calories the cereal is, the lower the rating
   * For this dataset we defined a healthy cereal as one which has the following characteristics:
 low calories (<100), low sodium (<150), low sugar (<9) high fiber (>3), and high protein (>2)
-  * Both the highest rated cereal as well as the lowest rated cereal are healthy (according to our definition).
+  * Both the highest rated cereal as well as the lowest rated cereal are healthy (according to our definition)
   
+# ![Project 5 - Time Series Analysis on Financial Data](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment2.ipynb)
+
+* Set up my environment and imported the Yahoo Finance library which then allowed me to download the stocks of Amazon, Facebook, IBM and MMM over the last 60 months.
+* Applied inferential statistical methods to draw insights from time-series data.
