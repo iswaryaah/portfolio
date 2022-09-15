@@ -49,10 +49,16 @@ multiple projects) and provides access to multiple IDEs.
 
 * Throughout the analysis, I anchored to the key question of who would be more likely to survive.
 * I used functions such as...
-  ► pandas.cut() to categorise age
-  ► .median() to find the median fare paid by passengers 
-  ► .mean() to find the average age of passengers
+  * pandas.cut() to categorise age
+  * .median() to find the median fare paid by passengers 
+  * .mean() to find the average age of passengers
 
 # ![Project 4 - Data Cleaning and Exploration](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%201.ipynb)
 
 * Using an open dataset with data on various types of cereal and the corresponding customer ratings, I created a dataframe by importing the provided csv file into Jupyter.
+* Based on the analysis conducted, I came to the following conclusions:
+  * There appears to be a strong negative relationship between calories and ratings where the higher in calories the cereal is, the lower the rating.
+  * For this dataset we defined a healthy cereal as one which has the following characteristics:
+low calories (<100), low sodium (<150), low sugar (<9) high fiber (>3), and high protein (>2)
+  * Both the highest rated cereal as well as the lowest rated cereal are healthy (according to our definition).
+  
