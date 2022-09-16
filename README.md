@@ -1,20 +1,19 @@
 # Iswaryaah Balakrishnan's Portfolio
 Here are the assignments and projects that I have worked on... 
 
-[![Py Portfolio](https://user-images.githubusercontent.com/57941228/190444958-af9fcf93-34e9-4804-a20d-1d03ce7cb2c1.png)](https://github.com/iswaryaah/portfolio/blob/main/images/Py%20Portfolio.png)
+![portfolio-image](https://github.com/iswaryaah/portfolio/blob/main/images/Py%20Portfolio.png)
 
-# ![Project 1 - SQL](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%201%20SQL.docx)
-
+# ![Project 1 - SQL](../blob/main/project%20files/Assignment%201%20SQL.docx)
 * Created a database in SQLite Studio.
 * Applied basic data querying techniques to create datasets from database tables.
 
-# How is SQL used in Data Science? 
+### How is SQL used in Data Science? 
 * Structured Query Language (SQL) is a standard language for accessing and manipulating databases. 
 * It is used to update/create/delete databases, execute queries, and manage data access permissions.
 * Many organizations store data in relational databases thus a data scientist should know how to use SQL in order to retrieve and manipulate data.
 * Data can be retrieved from a database using SQL and can then be further analyzed using R, Python, or other tools.
 
-# Basic SQL Syntax
+### Basic SQL Syntax
 • SELECT
 • DISTINCT
 • WHERE
@@ -25,18 +24,14 @@ Here are the assignments and projects that I have worked on...
 • Unions
 • Sub-queries
 
-# ![Project 2 - Basic Python](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%202.ipynb)
-
-* Wrote simple Python functions
-* Worked with strings and dictionaries
-
-# Working with Python
+# ![Project 2 - Basic Python](../blob/main/project%20files/Assignment%202.ipynb)
 * I installed Anaconda and programmed in Jupyter. 
 * Anaconda allows us to create multiple environments, manage Python packages in various versions (when working on
 multiple projects) and provides access to multiple IDEs.
+* Wrote simple Python functions
+* Worked with strings and dictionaries
 
-# ![Project 3 - Data Analysis using Python](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%203.ipynb)
-
+# ![Project 3 - Data Analysis using Python](../blob/main/project%20files/Assignment%203.ipynb)
 * In this project, I analyzed data of the passengers aboard the titanic.
 * My approach:
   * I imported the titanic dataset and then I used .info() to get a summary of the dataframe. 
@@ -51,8 +46,7 @@ multiple projects) and provides access to multiple IDEs.
     * .median() to find the median fare paid by passengers 
     * .mean() to find the average age of passengers
 
-# ![Project 4 - Data Cleaning and Exploration](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%201.ipynb)
-
+# ![Project 4 - Data Cleaning and Exploration](../blob/main/project%20files/Assignment%201.ipynb)
 * I created a dataframe based on a provided csv file with data on various types of cereal and the corresponding customer ratings
 * Based on the analysis conducted, I came to the following conclusions:
   * There appears to be a strong negative relationship between calories and ratings where the higher in calories the cereal is, the lower the rating
@@ -60,17 +54,14 @@ multiple projects) and provides access to multiple IDEs.
 low calories (<100), low sodium (<150), low sugar (<9) high fiber (>3), and high protein (>2)
   * Both the highest rated cereal as well as the lowest rated cereal are healthy (according to our definition)
   
-# ![Project 5 - Time Series Analysis on Financial Data](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment2.ipynb)
-
+# ![Project 5 - Time Series Analysis on Financial Data](../blob/main/project%20files/Assignment2.ipynb)
 * Set up my environment, importing the Yahoo Finance library which allowed me to download the stocks of Amazon, Facebook, IBM and MMM over the last 60 months.
 * Applied inferential statistical methods to draw insights from time-series data.
 
-# ![Project 6 - Linear Regression](https://github.com/iswaryaah/portfolio/blob/main/project%20files/Assignment%203.ipynb)
-
+# ![Project 6 - Linear Regression](../blob/main/project%20files/Assignment%203.ipynb)
 * Built a linear regression model to understand the drivers which influence car prices. 
 
-# Common Algorithms
-
+### Common Algorithms
 * Linear Regression
   * Used to estimate real values based on continuous variables (e.g. sales, house prices)
 * Logistic Regression
