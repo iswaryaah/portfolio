@@ -1,7 +1,7 @@
 # Iswaryaah Balakrishnan's Portfolio
 Here are the assignments and projects that I have worked on... 
 
-![portfolio-image](https://github.com/iswaryaah/portfolio/blob/main/images/Py%20Portfolio.png)
+![](https://github.com/iswaryaah/portfolio/blob/main/images/Py%20Portfolio.png)
 
 # ![Project 1 - SQL](../blob/main/project%20files/Assignment%201%20SQL.docx)
 * Created a database in SQLite Studio.
